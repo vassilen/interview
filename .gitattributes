@@ -1,0 +1,11 @@
+*			 -text
+*.sh         text eol=lf
+*.yml        eol=lf
+*.md         eol=lf
+*.xml        eol=lf
+*.yaml       eol=lf
+*.yaml.ctmpl eol=lf
+*.properties eol=lf
+*.tf         eol=lf
+*.hcl        eol=lf
+.java-version eol=lf
